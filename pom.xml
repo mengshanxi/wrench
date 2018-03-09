@@ -8,6 +8,9 @@
     <modules>
         <module>api</module>
         <module>service</module>
+        <module>repository</module>
+        <module>repository</module>
+        <module>manager</module>
     </modules>
     <packaging>pom</packaging>
 
